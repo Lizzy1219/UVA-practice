@@ -14,6 +14,7 @@
 >= axNx(N-1) + axN + bx(N-1) + b + c  
 >= axNx(N-1) + ax(N-1) + a + bx(N-1) + b + c  
 >= (axN + a + b)x(N-1) + (a + b + c)  
+
 所以能確定 axN+a+b 一定是N-1的倍數，只需要確認 a+b+c 是不是N-1的倍數就好。  
 
 #### Note
